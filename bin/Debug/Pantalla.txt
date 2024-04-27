@@ -1,0 +1,720 @@
+{
+  "parte": {
+    "pantalla": {
+      "poligonos": {
+        "pantalla": {
+          "vertices": {
+            "pantallav1": {
+              "ejeX": 10,
+              "ejeY": 10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": 10,
+              "z": -2
+            },
+            "pantallav2": {
+              "ejeX": 10,
+              "ejeY": 10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": 10,
+              "z": 2
+            },
+            "pantallav3": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -10,
+              "z": 2
+            },
+            "pantallav4": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -10,
+              "z": -2
+            },
+            "pantallav5": {
+              "ejeX": 10,
+              "ejeY": 10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": 10,
+              "z": 2
+            },
+            "pantallav6": {
+              "ejeX": -10,
+              "ejeY": 10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": 10,
+              "z": 2
+            },
+            "pantallav7": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -10,
+              "z": 2
+            },
+            "pantallav8": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -10,
+              "z": 2
+            },
+            "pantallav9": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -10,
+              "z": -2
+            },
+            "pantallav10": {
+              "ejeX": -10,
+              "ejeY": 10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": 10,
+              "z": -2
+            },
+            "pantallav11": {
+              "ejeX": -10,
+              "ejeY": 10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": 10,
+              "z": 2
+            },
+            "pantallav12": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -10,
+              "z": 2
+            },
+            "pantallav13": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -10,
+              "z": -2
+            },
+            "pantallav14": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -10,
+              "z": -2
+            },
+            "pantallav15": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -10,
+              "z": 2
+            },
+            "pantallav16": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -10,
+              "z": 2
+            },
+            "pantallav17": {
+              "ejeX": 10,
+              "ejeY": 10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": 10,
+              "z": -2
+            },
+            "pantallav18": {
+              "ejeX": -10,
+              "ejeY": 10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": 10,
+              "z": -2
+            },
+            "pantallav19": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -10,
+              "z": -2
+            },
+            "pantallav20": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -10,
+              "z": -2
+            },
+            "pantallav21": {
+              "ejeX": 10,
+              "ejeY": 10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": 10,
+              "z": -2
+            },
+            "pantallav22": {
+              "ejeX": -10,
+              "ejeY": 10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": 10,
+              "z": -2
+            },
+            "pantallav23": {
+              "ejeX": -10,
+              "ejeY": 10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": 10,
+              "z": 2
+            },
+            "pantallav24": {
+              "ejeX": 10,
+              "ejeY": 10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": 10,
+              "z": 2
+            }
+          },
+          "color": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "Tipo": 9,
+          "Translation": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "Center": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "Center": {
+        "ejeX": 0,
+        "ejeY": 0,
+        "ejeZ": 0,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "ParlanteIzquierda": {
+      "poligonos": {
+        "parlanteizq": {
+          "vertices": {
+            "parlantev1": {
+              "ejeX": -1,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -1,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev2": {
+              "ejeX": -1,
+              "ejeY": -12,
+              "ejeZ": 2,
+              "x": -1,
+              "y": -12,
+              "z": 2
+            },
+            "parlantev3": {
+              "ejeX": -10,
+              "ejeY": -12,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -12,
+              "z": 2
+            },
+            "parlantev4": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev5": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev6": {
+              "ejeX": -10,
+              "ejeY": -12,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -12,
+              "z": 2
+            },
+            "parlantev7": {
+              "ejeX": -10,
+              "ejeY": -12,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -12,
+              "z": -2
+            },
+            "parlantev8": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -10,
+              "z": -2
+            },
+            "parlantev4.1": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -10,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev9": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -10,
+              "z": -2
+            },
+            "parlantev10": {
+              "ejeX": -10,
+              "ejeY": -12,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -12,
+              "z": -2
+            },
+            "parlantev11": {
+              "ejeX": -1,
+              "ejeY": -12,
+              "ejeZ": -2,
+              "x": -1,
+              "y": -12,
+              "z": -2
+            },
+            "parlantev12": {
+              "ejeX": -1,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -1,
+              "y": -10,
+              "z": -2
+            },
+            "parlantev9.1": {
+              "ejeX": -10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -10,
+              "y": -10,
+              "z": -2
+            }
+          },
+          "color": {
+            "ejeX": 0,
+            "ejeY": 1,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 1,
+            "z": 0
+          },
+          "Tipo": 9,
+          "Translation": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "Center": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "Center": {
+        "ejeX": 0,
+        "ejeY": 0,
+        "ejeZ": 0,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "ParlanteDerecha": {
+      "poligonos": {
+        "parlanteder": {
+          "vertices": {
+            "parlantev1": {
+              "ejeX": 1,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 1,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev2": {
+              "ejeX": 1,
+              "ejeY": -12,
+              "ejeZ": 2,
+              "x": 1,
+              "y": -12,
+              "z": 2
+            },
+            "parlantev3": {
+              "ejeX": 10,
+              "ejeY": -12,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -12,
+              "z": 2
+            },
+            "parlantev4": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev5": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev6": {
+              "ejeX": 10,
+              "ejeY": -12,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -12,
+              "z": 2
+            },
+            "parlantev7": {
+              "ejeX": 10,
+              "ejeY": -12,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -12,
+              "z": -2
+            },
+            "parlantev8": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -10,
+              "z": -2
+            },
+            "parlantev5.1": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 10,
+              "y": -10,
+              "z": 2
+            },
+            "parlantev9": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -10,
+              "z": -2
+            },
+            "parlantev10": {
+              "ejeX": 10,
+              "ejeY": -12,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -12,
+              "z": -2
+            },
+            "parlantev11": {
+              "ejeX": 1,
+              "ejeY": -12,
+              "ejeZ": -2,
+              "x": 1,
+              "y": -12,
+              "z": -2
+            },
+            "parlantev12": {
+              "ejeX": 1,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 1,
+              "y": -10,
+              "z": -2
+            },
+            "parlantev9.1": {
+              "ejeX": 10,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 10,
+              "y": -10,
+              "z": -2
+            }
+          },
+          "color": {
+            "ejeX": 0,
+            "ejeY": 1,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 1,
+            "z": 0
+          },
+          "Tipo": 9,
+          "Translation": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "Center": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "Center": {
+        "ejeX": 0,
+        "ejeY": 0,
+        "ejeZ": 0,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "Soporte": {
+      "poligonos": {
+        "SoporteO": {
+          "vertices": {
+            "soportev1": {
+              "ejeX": -0.5,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -0.5,
+              "y": -10,
+              "z": 2
+            },
+            "soportev2": {
+              "ejeX": -2,
+              "ejeY": -18,
+              "ejeZ": 2,
+              "x": -2,
+              "y": -18,
+              "z": 2
+            },
+            "soportev3": {
+              "ejeX": 2,
+              "ejeY": -18,
+              "ejeZ": 2,
+              "x": 2,
+              "y": -18,
+              "z": 2
+            },
+            "soportev4": {
+              "ejeX": 0.5,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 0.5,
+              "y": -10,
+              "z": 2
+            },
+            "soportev5": {
+              "ejeX": -0.5,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": -0.5,
+              "y": -10,
+              "z": 2
+            },
+            "soportev6": {
+              "ejeX": -2,
+              "ejeY": -18,
+              "ejeZ": 2,
+              "x": -2,
+              "y": -18,
+              "z": 2
+            },
+            "soportev7": {
+              "ejeX": -2,
+              "ejeY": -18,
+              "ejeZ": -2,
+              "x": -2,
+              "y": -18,
+              "z": -2
+            },
+            "soportev8": {
+              "ejeX": -0.5,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -0.5,
+              "y": -10,
+              "z": -2
+            },
+            "soportev9": {
+              "ejeX": 0.5,
+              "ejeY": -10,
+              "ejeZ": 2,
+              "x": 0.5,
+              "y": -10,
+              "z": 2
+            },
+            "soportev10": {
+              "ejeX": 2,
+              "ejeY": -18,
+              "ejeZ": 2,
+              "x": 2,
+              "y": -18,
+              "z": 2
+            },
+            "soportev11": {
+              "ejeX": 2,
+              "ejeY": -18,
+              "ejeZ": -2,
+              "x": 2,
+              "y": -18,
+              "z": -2
+            },
+            "soportev12": {
+              "ejeX": 0.5,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 0.5,
+              "y": -10,
+              "z": -2
+            },
+            "soportev13": {
+              "ejeX": -0.5,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": -0.5,
+              "y": -10,
+              "z": -2
+            },
+            "soportev14": {
+              "ejeX": -2,
+              "ejeY": -18,
+              "ejeZ": -2,
+              "x": -2,
+              "y": -18,
+              "z": -2
+            },
+            "soportev15": {
+              "ejeX": 2,
+              "ejeY": -18,
+              "ejeZ": -2,
+              "x": 2,
+              "y": -18,
+              "z": -2
+            },
+            "soportev16": {
+              "ejeX": 0.5,
+              "ejeY": -10,
+              "ejeZ": -2,
+              "x": 0.5,
+              "y": -10,
+              "z": -2
+            }
+          },
+          "color": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 1,
+            "x": 0,
+            "y": 0,
+            "z": 1
+          },
+          "Tipo": 9,
+          "Translation": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "Center": {
+            "ejeX": 0,
+            "ejeY": 0,
+            "ejeZ": 0,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "Center": {
+        "ejeX": 0,
+        "ejeY": 0,
+        "ejeZ": 0,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  },
+  "Center": {
+    "ejeX": 0,
+    "ejeY": 0,
+    "ejeZ": 0,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}
